@@ -13,7 +13,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/athulmekkoth/athulmekkoth/blob/output/snake.svg" alt="Snake animation" />
+(https://github.com/athulmekkoth/athulmekkoth/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ###
 
