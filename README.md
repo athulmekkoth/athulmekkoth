@@ -14,7 +14,7 @@
 ###
 
 ![snake gif](https://github.com/athulmekkoth/athulmekkoth/blob/output/github-contribution-grid-snake.gif)
-
+[![@athulsuresh's Holopin board](https://holopin.me/athulsuresh)](https://holopin.io/@athulsuresh)
 
 
 ###
@@ -43,5 +43,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-[![@athulsuresh's Holopin board](https://holopin.me/athulsuresh)](https://holopin.io/@athulsuresh)
+
 ###
