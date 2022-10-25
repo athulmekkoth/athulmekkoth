@@ -1,6 +1,7 @@
 
 <h1 align="left">Hello World!!.  I am Athul Suresh </h1>
-<h2 >I am a computer science student</h2>
+<p >I am a final year computer science student</p>
+<p >Currently learning about many things </p>
 ###
 
 <div align="center">
