@@ -12,6 +12,9 @@
 </div>
 
 ###
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ![snake gif](https://github.com/athulmekkoth/athulmekkoth/blob/output/github-contribution-grid-snake.gif)
 [![@athulsuresh's Holopin board](https://holopin.me/athulsuresh)](https://holopin.io/@athulsuresh)
