@@ -13,7 +13,7 @@
 
 ###
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>>
 
 ![snake gif](https://github.com/athulmekkoth/athulmekkoth/blob/output/github-contribution-grid-snake.gif)
