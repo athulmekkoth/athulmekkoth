@@ -1,6 +1,6 @@
 
-<h1 align="left">Hello World!!.  I am Athul Suresh </h1>
-<p >I am a final year computer science student</p>
+<h1 align="left">Hello World!!.I am Athul 👻👻</h1>
+
 
 
 
