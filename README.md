@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athulmekkoth" alt="athulmekkoth" /></a> </p>
 
-- 🔭 I’m currently working on **NextJS Project**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms,Docker**
+- 🌱 I’m currently learning **NextJs,Docker**
 
 - 👨‍💻 All of my projects are available at [https://portfolioup.vercel.app/](https://portfolioup.vercel.app/)
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **athulsuresh21@proton.me**
 
-- ⚡ Fun fact **I am not serious when i eat.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
