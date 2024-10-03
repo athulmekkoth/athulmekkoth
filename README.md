@@ -3,15 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **React,Node**
 
-- 🌱 I’m currently learning **Everything**
-
-- 👨‍💻 All of my projects are available at [https://portfolioup.vercel.app/](https://portfolioup.vercel.app/)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **athulsuresh21@proton.me**
 
 
 
